@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s2102@e-mirim.hs.kr)](mailto:snugyun01@gmail.com)  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+
 
 <div align="center">  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s2102@e-mirim.hs.kr)](mailto:snugyun01@gmail.com)  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 ![steam88ys's GitHub stats](https://github-readme-stats.vercel.app/api?username=steam88ys&show_icons=true&theme=merko)
 </div>
