@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   
 [![steam88ys's GitHub stats](https://github-readme-stats.vercel.app/api?username=steam88ys)](https://github.com/steam88ys/github-readme-stats)
-![steam88ys's GitHub stats](https://github-readme-stats.vercel.app/api?username=stea,88ys&show_icons=true&theme=dark)
+![steam88ys's GitHub stats](https://github-readme-stats.vercel.app/api?username=steam88ys&show_icons=true&theme=dark)
   
 </p>
