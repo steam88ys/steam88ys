@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=_hexcode&height=90&section=header&text=yunseo%Kim&fontColor=ccff00&fontSize=90)
-### Hi there 👋
+### Come and see me
 ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s2102@e-mirim.hs.kr)  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/김윤서)](https://www.facebook.com/김윤서)
 
 ### Skills 
