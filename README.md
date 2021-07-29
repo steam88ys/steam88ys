@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=_hexcode&height=90&section=header&text=yunseo%Kim&fontColor=ccff00&fontSize=90)
-## Hi there 👋
+### Hi there 👋
 #### The languages I learned
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s2102@e-mirim.hs.kr)](mailto:snugyun01@gmail.com)  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white=white" /> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
 
