@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<div="center">
+--><div="center">
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=_hexcode&height=90&section=header&text=yunseo%Kim&fontColor=ccff00&fontSize=90)
 ### Hi there 👋
 
