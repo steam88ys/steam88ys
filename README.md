@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=_hexcode&height=90&section=header&text=yunseo%Kim&fontColor=ff9933&fontSize=90)### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=_hexcode&height=90&section=header&text=yunseo%Kim&fontColor=ff9933&fontSize=90)
+### Hi there 👋
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s2102@e-mirim.hs.kr)](mailto:snugyun01@gmail.com)  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white=white" /> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 
