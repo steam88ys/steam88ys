@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=Wave&color=ccff00&height=210&section=header&text=yunseo Kim&fontColor=000000&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=ccff00&height=210&section=header&text=yunseo%Kim&fontColor=000000&fontSize=50)
 ### Come and see me😸
 <a href="mailto:s2102@e-mirim.hs.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>  <a href="https://www.instagram.com/ymdyun_129/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/김윤서)](https://www.facebook.com/김윤서)
 
