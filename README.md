@@ -23,4 +23,22 @@ Here are some ideas to get you started:
 #### Tech Stack🐱‍👤 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white=white" />  
 
+name: Update gist
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update gist
+        uses: maxam2017/productive-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
+          TIMEZONE: Asia/Seoul
+
 ![steam88ys's GitHub stats](https://github-readme-stats.vercel.app/api?username=steam88ys&show_icons=true&theme=omni)
