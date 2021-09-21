@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Yunseo Kim. ake a look at my github😎
+### Hi there, I'm Yunseo Kim. Take a look at my github😎
 
 #### SNS😸
 <a href="https://www.instagram.com/ymdyun_129/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/김윤서)](https://www.facebook.com/김윤서)
