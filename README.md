@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h4 align = "center"> Hi there, I'm Kim yunseo. Take a look at my github. </h4>
-
+<h3 align = "center"> Hi there, I'm Kim yunseo. Take a look at my github. </h3>
 
 <h4 align = "center"> SNS </h4>
 <p align = "center">
@@ -30,4 +29,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white=white"/></a>
 </p> 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steam88ys&langs_count=8)
 ![steam88ys's GitHub stats](https://github-readme-stats.vercel.app/api?username=steam88ys&show_icons=true&theme=omni)
