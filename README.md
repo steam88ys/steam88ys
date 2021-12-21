@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/ycoshia_db/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" ></a>
 
 <h4> Tech Stack </h4>
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">&nbsp
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white">&nbsp
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">&nbsp
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white=white"/>  
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white=white"/></a> 
 
 ![steam88ys's GitHub stats](https://github-readme-stats.vercel.app/api?username=steam88ys&show_icons=true&theme=omni)
