@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h4 align = "center"> Hi there, I'm Kim yunseo. Take a look at my github </h4>
+<h4 align = "center"> Hi there, I'm Kim yunseo. Take a look at my github. </h4>
 
 
 <h4 align = "center"> SNS </h4>
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/ycoshia_db/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" ></a>
 </p>
 
-<h4 align = "center"> Tech Stack </h4>
+<h4 align = "center"> 🛠Tech Stack🛠 </h4>
 <p align = "center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
