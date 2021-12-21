@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Yunseo Kim. Take a look at my github
+### Hi there, I'm Kim yunseo. Take a look at my github
 
 
 #### SNS
