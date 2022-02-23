@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kim%20yunseo&fontSize=90)
 <div align=center>
 <h4> 💻SNS </h4>
-<a href="https://www.instagram.com/ycoshia_db/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" ></a>
+<a href="https://www.instagram.com/ycoshia/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" ></a>
 
 <h4> 🛠Tech Stack </h4>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
