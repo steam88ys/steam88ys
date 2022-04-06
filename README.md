@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <div align=center>
 <h4> 💻SNS </h4>
 <a href="https://www.instagram.com/ycoshia/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" ></a>
+<a href="https://velog.io/@steam88ys" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white" ></a>
 
 <h4> 🛠Tech Stack </h4>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
