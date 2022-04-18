@@ -19,11 +19,10 @@ Here are some ideas to get you started:
   
 <a href="https://www.notion.so/Kim-yunseo-cc7fff526bcf437eaf7b1a720a0aa4e4" target="_blank"><h4>Notion
   
-<h4> Me </h4>
 <a href="https://www.instagram.com/ycoshia/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" ></a>
 <a href="https://velog.io/@steam88ys" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white" ></a>
 
-<h4> 🛠Tech Stack </h4>
+<h4> 🛠Tech Stack🛠 </h4>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
