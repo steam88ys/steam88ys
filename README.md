@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFDC46&height=240&section=header&text=Kim%20yunseo&fontSize=85)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FA8072&height=240&section=header&text=Kim%20yunseo&fontSize=85)
 <div align=center>
   
 <a href="https://big-freeze-63b.notion.site/Kim-yunseo-cc7fff526bcf437eaf7b1a720a0aa4e4" target="_blank"><h4>Notion
