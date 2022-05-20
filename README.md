@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5675&size=50ultiline=true&width=600&height=80&lines=Welcome+To+My+Github)](https://git.io/typing-svg)
 
-<span style='background-color: #ffdce0'> Notion </span>
+- Notion
 
 <a href="https://www.notion.so/Kim-yunseo-cc7fff526bcf437eaf7b1a720a0aa4e4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
@@ -25,14 +25,14 @@ Here are some ideas to get you started:
 <a href="https://big-freeze-63b.notion.site/Kim-yunseo-cc7fff526bcf437eaf7b1a720a0aa4e4" target="_blank"></a>
   
 
-<span style='background-color: #ffdce0'> SNS </span>
+- SNS
 
 
 <a href="https://www.instagram.com/ycoshia/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" ></a>
 <a href="https://velog.io/@steam88ys" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white" ></a>
 
 
-<span style='background-color: #ffdce0'> Tech Stack </span>
+- Tech Stack
   
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
