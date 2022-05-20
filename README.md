@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 <br><br><br>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steam88ys&langs_count=8)
-![steam88ys's GitHub stats](https://github-readme-stats.vercel.app/api?username=steam88ys&show_icons=true&theme=white)
+![steam88ys's GitHub stats](https://github-readme-stats.vercel.app/api?username=steam88ys&show_icons=true&theme=graywhite)
 </div>
