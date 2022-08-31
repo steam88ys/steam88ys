@@ -18,14 +18,14 @@
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=steam88ys&show_icons=true&theme=material-palenight&hide_border=true&bg_color=222222&icon_color=FF5675&text_color=FF5675" width=49.2% />
+  <img src="https://github-readme-stats.vercel.app/api?username=steam88ys&show_icons=true&theme=radical&hide_border=true&bg_color=222222&icon_color=FF5675&text_color=FFFFFF" width=49.2% />
 </a>
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=steam88ys&theme=react&ring=FF5675&fire=FF5675&sideNums=FF5675&currStreakNum=FF5675&sideLabels=222222&currStreakLabel=FF5675&dates=FF5675&hide_border=true" width=49.2% />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=steam88ys&theme=radical&ring=FF5675&fire=FF5675&sideNums=FF5675&currStreakNum=FF5675&sideLabels=FFFFFF&currStreakLabel=FF5675&dates=FF5675&hide_border=true" width=49.2% />
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=steam88ys&theme=react-dark&bg_color=222222&hide_border=true&line=FF5675&color=FF5675" width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=steam88ys&theme=react-dark&bg_color=2222222&hide_border=true&line=FF5675&color=FF5675" width=98%/>
 </a>
 
 </div>
