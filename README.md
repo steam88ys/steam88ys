@@ -1,3 +1,7 @@
+
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5675&size=50ultiline=true&width=600&height=80&lines=Welcome+To+My+Github)](https://git.io/typing-svg)
 
 
@@ -13,9 +17,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
-<br>
 
-<div align="center">
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=steam88ys&show_icons=true&theme=radical&hide_border=true&bg_color=222222&icon_color=FF5675&text_color=FFFFFF" width=49.2% />
