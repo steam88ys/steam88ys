@@ -13,16 +13,15 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
-
 <br>
 
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=steam88ys&show_icons=true&theme=material-palenight&hide_border=true&bg_color=FF5675&icon_color=FF5675&text_color=fff" width=49.2% />
+  <img src="https://github-readme-stats.vercel.app/api?username=steam88ys&show_icons=true&theme=material-palenight&hide_border=true&bg_color=222222&icon_color=FF5675&text_color=FF5675" width=49.2% />
 </a>
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=steam88ys&theme=react&ring=C691E94D&fire=C691E9&sideNums=C691E9&currStreakNum=C691E9&sideLabels=222222&currStreakLabel=FF5675&dates=FF5675&hide_border=true" width=49.2% />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=steam88ys&theme=react&ring=FF5675&fire=FF5675&sideNums=FF5675&currStreakNum=FF5675&sideLabels=222222&currStreakLabel=FF5675&dates=FF5675&hide_border=true" width=49.2% />
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
