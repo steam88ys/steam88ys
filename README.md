@@ -26,8 +26,8 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=steam88ys&theme=radical&background=111111&ring=FF5675&fire=FF5675&sideNums=FF5675&currStreakNum=FF5675&sideLabels=FFFFFF&currStreakLabel=FF5675&dates=FF5675&hide_border=true" width=49.2% />
 </a>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=steam88ys&theme=react-dark&bg_color=2222222&hide_border=true&line=FF5675&color=FF5675" width=98%/>
-</a>
+</a> -->
 
 </div>
