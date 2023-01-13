@@ -19,9 +19,9 @@
 
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=steam88ys&show_icons=true&theme=dracula&hide_border=true&bg_color=111111&icon_color=FF5675&text_color=FFFFFF" width=49.2% />
-</a>
+</a> -->
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=steam88ys&theme=radical&background=111111&ring=FF5675&fire=FF5675&sideNums=FF5675&currStreakNum=FF5675&sideLabels=FFFFFF&currStreakLabel=FF5675&dates=FF5675&hide_border=true" width=49.2% />
 </a>
