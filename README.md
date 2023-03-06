@@ -19,7 +19,7 @@
 
 <a href="https://www.instagram.com/ycoshia/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" ></a>
 <a href="https://velog.io/@steam88ys" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white" ></a>
-<a href="https://www.notion.so/Kim-yunseo-cc7fff526bcf437eaf7b1a720a0aa4e4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <br>
+<a href="https://www.notion.so/Kim-yunseo-cc7fff526bcf437eaf7b1a720a0aa4e4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <br><br>
 
 
 <h3>🚩기술 스택입니다.</h3>
