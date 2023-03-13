@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5675&size=50ultiline=true&width=600&height=80&lines=Welcome+To+My+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=50ultiline=true&width=600&height=80&lines=Welcome+To+My+Github)](https://git.io/typing-svg)
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=steam88ys&show_icons=true&theme=dracula&hide_border=true&bg_color=111111&icon_color=FF5675&text_color=FFFFFF" width=49.2% />
@@ -15,14 +15,14 @@
 </div>
 
 <br>
-<h3>🚩SNS 입니다.</h3>
+<h3>🚩Contact</h3>
 
 <a href="https://www.notion.so/Kim-yunseo-cc7fff526bcf437eaf7b1a720a0aa4e4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/ycoshia/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" ></a>
 <a href="https://velog.io/@steam88ys" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white" ></a><br><br>
 
 
-<h3>🚩기술 스택입니다.</h3>
+<h3>🚩Tech Stac</h3>
 
 Language<br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
