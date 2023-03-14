@@ -10,7 +10,8 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=steam88ys&theme=radical&background=111111&ring=FF5675&fire=FF5675&sideNums=FF5675&currStreakNum=FF5675&sideLabels=FFFFFF&currStreakLabel=FF5675&dates=FF5675&hide_border=true" width=49.2% />
 </a>
   
-
+![steam88ys's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=steam88ys&theme=high-contrast)
+  
 </div>
 
 <br>
@@ -31,7 +32,7 @@ Language<br>
 &nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white=white">
 &nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 &nbsp;<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> 
+&nbsp;<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> 
 &nbsp;<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
 
 
