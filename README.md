@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=50ultiline=true&width=600&height=80&lines=Welcome+To+My+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5675&size=50ultiline=true&width=600&height=80&lines=Welcome+To+My+Github)](https://git.io/typing-svg)
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=steam88ys&show_icons=true&theme=dracula&hide_border=true&bg_color=111111&icon_color=FF5675&text_color=FFFFFF" width=49.2% />
