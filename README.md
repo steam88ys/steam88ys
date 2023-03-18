@@ -37,7 +37,6 @@ Language<br>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> 
 &nbsp;<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
 
-
 Database<br>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;&nbsp;
@@ -49,8 +48,8 @@ Tools<br>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"> 
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="76" height="76" /><br>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VScode&logoColor=white"> &nbsp;
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
     
 
 <br>
