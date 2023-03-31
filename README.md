@@ -1,7 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5675&size=50ultiline=true&width=600&height=80&lines=Welcome+To+My+Github)](https://git.io/typing-svg)
-
+# Welcome To My Github
+  <br>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=steam88ys&show_icons=true&theme=dracula&hide_border=true&bg_color=111111&icon_color=FF5675&text_color=FFFFFF" width=49.2% />
 </a> 
@@ -10,7 +11,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=steam88ys&theme=radical&background=111111&ring=FF5675&fire=FF5675&sideNums=FF5675&currStreakNum=FF5675&sideLabels=FFFFFF&currStreakLabel=FF5675&dates=FF5675&hide_border=true" width=49.2% />
 </a>
   
-![steam88ys's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=steam88ys&theme=high-contrast)
+<!-- ![steam88ys's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=steam88ys&theme=high-contrast) -->
   
 </div>
 
