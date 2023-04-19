@@ -1,9 +1,6 @@
-<div align="center">
 
-# Welcome To My Github
-  <br>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=steam88ys&show_icons=true&theme=dracula&hide_border=true&bg_color=111111&icon_color=FF5675&text_color=FFFFFF" width=49.2% />
 </a> 
 
@@ -14,8 +11,11 @@
 <!-- ![steam88ys's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=steam88ys&theme=high-contrast) -->
   
 </div>
-
+<h3>🚩Introduction</h3>
+안녕하세요🙌 <br>
+미림여자정보과학고등학교에서 뉴미디어소프트웨어를 전공 중인 개발자 지망생입니다.
 <br>
+
 <h3>🚩Contact</h3>
 <a href="https://www.notion.so/Kim-yunseo-cc7fff526bcf437eaf7b1a720a0aa4e4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 &nbsp;<a href="https://www.instagram.com/ycoshia/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" ></a>
