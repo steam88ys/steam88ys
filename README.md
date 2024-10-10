@@ -11,7 +11,7 @@
 <!-- ![steam88ys's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=steam88ys&theme=high-contrast) -->
 
 <h3>🚩Project</h3>
-<a href="https://bioscope.rinorbit.com">https://bioscope.rinorbit.com</a>
+<a href="https://bioscope.rinorbit.com">https://bioscope.rinorbit.com</a> ID:Admin/PW:1234
   
 </div>
 <h3>🚩Introduction</h3>
